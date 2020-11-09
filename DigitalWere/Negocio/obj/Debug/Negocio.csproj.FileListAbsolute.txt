@@ -1,0 +1,14 @@
+C:\Users\JUAN\source\repos\DigitalWere\Negocio\bin\Debug\Negocio.dll
+C:\Users\JUAN\source\repos\DigitalWere\Negocio\bin\Debug\Negocio.pdb
+C:\Users\JUAN\source\repos\DigitalWere\Negocio\bin\Debug\Entidades.dll
+C:\Users\JUAN\source\repos\DigitalWere\Negocio\bin\Debug\Persistencia.dll
+C:\Users\JUAN\source\repos\DigitalWere\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\JUAN\source\repos\DigitalWere\Negocio\bin\Debug\Entidades.pdb
+C:\Users\JUAN\source\repos\DigitalWere\Negocio\bin\Debug\Persistencia.pdb
+C:\Users\JUAN\source\repos\DigitalWere\Negocio\bin\Debug\Persistencia.dll.config
+C:\Users\JUAN\source\repos\DigitalWere\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\JUAN\source\repos\DigitalWere\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\JUAN\source\repos\DigitalWere\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\source\repos\DigitalWere\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\JUAN\source\repos\DigitalWere\Negocio\obj\Debug\Negocio.dll
+C:\Users\JUAN\source\repos\DigitalWere\Negocio\obj\Debug\Negocio.pdb

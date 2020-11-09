@@ -1,0 +1,14 @@
+C:\Users\JUAN\source\repos\DigitalWere\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\JUAN\source\repos\DigitalWere\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\JUAN\source\repos\DigitalWere\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\JUAN\source\repos\DigitalWere\Persistencia\bin\Debug\Entidades.dll
+C:\Users\JUAN\source\repos\DigitalWere\Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\JUAN\source\repos\DigitalWere\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JUAN\source\repos\DigitalWere\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\JUAN\source\repos\DigitalWere\Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\JUAN\source\repos\DigitalWere\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JUAN\source\repos\DigitalWere\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\JUAN\source\repos\DigitalWere\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\source\repos\DigitalWere\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\JUAN\source\repos\DigitalWere\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\JUAN\source\repos\DigitalWere\Persistencia\obj\Debug\Persistencia.pdb
